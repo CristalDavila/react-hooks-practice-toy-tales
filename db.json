@@ -27,7 +27,7 @@
     {
       "id": 5,
       "name": "Rex",
-      "image": "https://static.wikia.nocookie.net/pixar/images/a/a8/Rex_%28Toy_Story%29.png/revision/latest/scale-to-width-down/377?cb=20210221010941",
+      "image": "https://media.istockphoto.com/id/536974213/photo/rex-the-green-dinosaur-toy-character-from-toy-story.jpg?s=170667a&w=0&k=20&c=1HV26xeEQ9ITft-7CUXgvsB6tcnmycdYPF_ryjZpjQs=",
       "likes": 1
     },
     {
@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "willow evee",
+      "image": "https://m.media-amazon.com/images/S/aplus-media/vc/2c5f6512-ffca-4899-a282-4811491556d1.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "pikachuuuuuu",
+      "image": "https://i.ebayimg.com/images/g/raUAAOSwxRZhB8b4/s-l1200.jpg",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "shrooooom",
+      "image": "https://m.media-amazon.com/images/I/71g8A-gNgEL._AC_UF894,1000_QL80_.jpg",
+      "likes": 0,
+      "id": 11
     }
   ]
 }
